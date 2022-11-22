@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20render&fontSize=85&animation=fadeIn&fontAlignY=34&desc=Rim%20GitHub%20Profile%!&descAlignY=51&descAlign=62)
 
 <!--
