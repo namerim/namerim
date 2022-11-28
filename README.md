@@ -7,3 +7,6 @@
 
 ## **:bar_chart: 깃허브 기록**
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=namerim&show_icons=true&hide=issues,stars)](https://github.com/namerim/github-readme-stats)
+
+## **:bar_chart: 프로젝트 통계**
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=namerim&show_icons=true&hide=issues,stars)](https://github.com/rdyjun/github-readme-stats)
