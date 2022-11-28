@@ -11,7 +11,7 @@
 <br>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=namerim&show_icons=true&hide=issues,stars)](https://github.com/namerim/github-readme-stats)
-  
+
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFCCCC&height=180&section=footer)
