@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFCCCC&height=230&section=header&text=Welcome%20&fontSize=85&animation=fadeIn&fontAlignY=34&desc=Rim%20GitHub%20Profile%!&descAlignY=51&descAlign=62&&fontColor=D98E94) 
   
-<h3 align="center">🪄 Study Stack 🪄</h3>
+<h3 align="center">🌼 Study Stack 🌼</h3> 
   
 <p align="center"> I am a student currently learning </p>
   
