@@ -23,9 +23,5 @@
   
 </p>
 
-[![방문자](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNamerim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=&icon_color=%23E1DEDE&title=방문자&edge_flat=false)](https://github.com/namerim)
-
-<br>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFCCCC&height=180&section=footer)
 </div> 
